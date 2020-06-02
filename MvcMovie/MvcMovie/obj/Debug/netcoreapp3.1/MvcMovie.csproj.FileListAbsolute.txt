@@ -12,8 +12,6 @@ C:\Users\Step Laptop\source\repos\MvcMovie\MvcMovie\bin\Debug\netcoreapp3.1\MvcM
 C:\Users\Step Laptop\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.csprojAssemblyReference.cache
 C:\Users\Step Laptop\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.AssemblyInfoInputs.cache
 C:\Users\Step Laptop\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.AssemblyInfo.cs
-C:\Users\Step Laptop\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.csproj.CoreCompileInputs.cache
-C:\Users\Step Laptop\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Step Laptop\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.RazorAssemblyInfo.cache
 C:\Users\Step Laptop\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.RazorAssemblyInfo.cs
 C:\Users\Step Laptop\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.TagHelpers.input.cache
