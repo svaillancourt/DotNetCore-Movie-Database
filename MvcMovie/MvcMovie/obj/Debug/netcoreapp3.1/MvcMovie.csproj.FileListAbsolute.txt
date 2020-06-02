@@ -164,3 +164,8 @@ C:\Users\Step Laptop\source\repos\MvcMovie\MvcMovie\bin\Debug\netcoreapp3.1\zh-H
 C:\Users\Step Laptop\source\repos\MvcMovie\MvcMovie\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Step Laptop\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.csproj.CoreCompileInputs.cache
 C:\Users\Step Laptop\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Step Laptop\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Create.cshtml.g.cs
+C:\Users\Step Laptop\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Delete.cshtml.g.cs
+C:\Users\Step Laptop\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Details.cshtml.g.cs
+C:\Users\Step Laptop\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Edit.cshtml.g.cs
+C:\Users\Step Laptop\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Index.cshtml.g.cs
